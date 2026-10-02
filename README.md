@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiaj19&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaj19" /> </p>
 
-- 🌱 I’m currently learning **Go**
-
 - 💬 Ask me about **CP**
 
 - 📫 How to reach me **mohammad.imtiaj18@gmial.com**
